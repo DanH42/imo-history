@@ -93,7 +93,7 @@ function badUpload($reason, $location){
 		<input type="submit" value="Convert" />
 	</form>
 	<h3 style="margin-bottom:0">Privacy note:</h3>
-	<p>This tool was not written by and is not in any way affiliated with or endorsed by imo.im or PageBites, Inc. Your chat history is saved on this server only during the time it is being converted. As soon as conversion is complete, the file is removed and no copies&mdash;whole or partial&mdash;are kept. If you'd prefer to run the conversion yourself, feel free to download the <a href="index.phps">PHP source</a>.
+	<p>This tool was not written by and is not in any way affiliated with or endorsed by imo.im or PageBites, Inc. Your chat history is saved on this server only during the time it is being converted. As soon as conversion is complete, the file is removed and no copies&mdash;whole or partial&mdash;are kept. If you'd prefer to run the conversion yourself, feel free to download the <a href="index.phps">PHP source</a> or browse its <a href="https://github.com/DanH42/imo-history">GitHub</a> repository.</p>
 	<?php } ?>
 </body>
 </html>
