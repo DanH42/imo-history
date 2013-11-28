@@ -1,0 +1,26 @@
+.name{
+	font-weight: bold;
+	font-size: 110%;
+	border-bottom: 1px solid #ddd;
+}.me{
+	text-align: right;
+}.message{
+	margin: .5em;
+}.messages{
+	border-left: 4px solid black;
+	padding: 1em;
+	max-width: 580px;
+}.members{
+	border-bottom: 2px solid black;
+	max-width: 600px;
+}.count{
+	font-size: 85%;
+	color: #333;
+	float: right;
+}.time{
+	font-size: 85%;
+	color: #333;
+}.me .time{
+	float: right;
+	margin-left: .5em;
+}
